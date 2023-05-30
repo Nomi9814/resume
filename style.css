@@ -5868,6 +5868,7 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 .personal-profile .personal-profile__social a:hover {
   opacity: 1;
+  text-decoration: none;
 }
 .main-header {
   background-color: #6462ab;
