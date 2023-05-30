@@ -6406,10 +6406,11 @@ input[type="number"]::-webkit-outer-spin-button {
 .progress-list .progress {
   height: 6px;
   margin-bottom: 30px;
+  background-color: #e9ecef;
 }
 .progress-list .progress .progress-bar {
   background-color: #359ab6;
-  height: 3px;
+  height: 6px;
 }
 .mobile-menu {
   position: fixed;
